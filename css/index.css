@@ -124,6 +124,9 @@ input::placeholder {
 .weather__card p {
     font-size: 14px;
 }
+span{
+    display: inline-flex;
+}
 
 @media(max-width: 936px){
     .container {
